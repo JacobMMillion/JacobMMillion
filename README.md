@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JacobMMillion
 - 👀 I’m interested in computer science, biology, software engineering
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @jacobmmillion
 
 <!---
