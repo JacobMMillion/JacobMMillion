@@ -2,7 +2,7 @@ Columbia cs 25'
 |
 Contact: jacobmmillion@gmail.com
 |
-Website: jacobmillioncv.elementfx.com
+Website: jacobmmillion.github.io/CV/
 
 
 <!---
