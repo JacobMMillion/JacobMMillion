@@ -1,7 +1,3 @@
-Columbia cs 25'
-|
-Contact: jacobmmillion@gmail.com
-|
 Website: jacobmmillion.github.io/CV/
 
 
