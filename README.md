@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a software developer with a focus on creatin
 
 ## 🧑‍💻 Projects
 
-### **[Menuly](https://github.com/JacobMMillion/Menu-ly_IOS_Application)**
+### **[Menu-ly](https://github.com/JacobMMillion/Menu-ly_IOS_Application)**
 Menu-ly is a user-friendly iOS application designed to help restaurant staff effortlessly reference and study their restaurant's menu descriptions. The app empowers management to update, edit, and remove menu items and descriptions, ensuring the information is always up to date. With Firebase backend, Menu-ly provides robust backend support and secure user authentication. Available for download on the IOS App Store.
 
 ### **[HealthHub](https://github.com/JacobMMillion/HealthHub_Database_Webapp)**
