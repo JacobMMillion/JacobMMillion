@@ -29,4 +29,4 @@ A collection of resources and tutorials on programming, data science, and machin
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jacobmmillion)
+- [LinkedIn]([https://www.linkedin.com/in/jacobmmillion](https://www.linkedin.com/in/jacob-million-05ab0b221/))
