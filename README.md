@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I’m a software developer with a focus on creating innovative, high-impact solutions with technology.
+## Welcome to my GitHub profile! I’m a software developer with a focus on creating innovative, high-impact solutions with technology.
 
 ## 📄 [View My CV](https://jacobmmillion.github.io/CV/)
 
