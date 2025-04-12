@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Jacob Million GitHub Profile
 
 I’m a software developer dedicated to crafting innovative, high-impact solutions.
 
