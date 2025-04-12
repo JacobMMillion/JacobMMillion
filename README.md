@@ -1,16 +1,6 @@
-# Hi, I'm Jacob 👋
-
 Welcome to my GitHub profile! I’m a software developer with a focus on creating innovative, high-impact solutions with technology.
 
 ## 📄 [View My CV](https://jacobmmillion.github.io/CV/)
-
-## 🛠️ Skills & Technologies
-
-- **Languages**: Python, C, Java, Swift, Lua, Assembly
-- **Tools & Frameworks**: Firebase, SQL, Scripting, Azure
-- **Web Development**: Flask, React, HTML, CSS, Javascript
-- **Version Control**: git, github
-- **App Development**: IOS, Web
 
 ## 🧑‍💻 Projects
 
