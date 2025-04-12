@@ -4,6 +4,9 @@
 
 ## 🧑‍💻 Projects
 
+### **[Trial_Trigger]**
+An automated solution that monitors trial sign-ups by comparing today's counts to a 30-day median. When a set threshold is exceeded, it logs the event, updates video metrics (views, comments, likes, shares) via an API, filters social media comments for direct user engagement, and notifies stakeholders for timely action.
+
 ### **[Menu-ly](https://github.com/JacobMMillion/Menu-ly_IOS_Application)**
 Menu-ly is a user-friendly iOS application designed to help restaurant staff effortlessly reference and study their restaurant's menu descriptions. The app empowers management to update, edit, and remove menu items and descriptions, ensuring the information is always up to date. With Firebase backend, Menu-ly provides robust backend support and secure user authentication. It is available for download on the IOS App Store, and restaurant have reported increased server knowledge with its use.
 
