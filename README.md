@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I’m a software developer dedicated to crafting innovative, high-impact solutions with technology.
+I’m a software developer dedicated to crafting innovative, high-impact solutions.
 
 ---
 
