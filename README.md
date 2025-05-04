@@ -1,7 +1,6 @@
 # Jacob Million GitHub Profile
 
 Columbia University, class of 2025
-I build things.
 
 ---
 
