@@ -4,11 +4,11 @@ I’m a software developer dedicated to crafting innovative, high-impact solutio
 
 ---
 
-### 📄 [View My CV](https://jacobmmillion.github.io/CV/)
+### [View My CV](https://jacobmmillion.github.io/CV/)
 
 ---
 
-## 🧑‍💻 Projects
+## Projects
 
 ### **[Trial Trigger & Video Metric Processing System](https://github.com/JacobMMillion/Trial_Trigger)**
 An automated solution that monitors trial sign-ups by comparing today's counts to a 30-day median. When a set threshold is exceeded, it logs the event, updates video metrics (views, comments, likes, shares) via an API, filters social media comments for direct user engagement, and notifies stakeholders for timely action.
@@ -28,6 +28,6 @@ Stock and Cryptocurrency Price Prediction Pipeline using historical data and mac
 ### **[Educational Content](https://github.com/JacobMMillion/Learning_Land_Lesson_Plans)**
 A collection of resources and tutorials on programming in Python, aimed at helping learners grow their technical skills. These lessons include CS basics as well as game design with the `Pygame` library.
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jacob-million-05ab0b221/)
