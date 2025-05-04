@@ -1,6 +1,6 @@
 # Jacob Million GitHub Profile
 
-I’m a software developer dedicated to crafting innovative, high-impact solutions.
+I build things.
 
 ---
 
