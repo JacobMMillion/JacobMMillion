@@ -8,7 +8,7 @@ I’m a software developer dedicated to crafting innovative, high-impact solutio
 
 ---
 
-## Projects
+## Some of my Favorite Projects
 
 ### **[Trial Trigger & Video Metric Processing System](https://github.com/JacobMMillion/Trial_Trigger)**
 An automated solution that monitors trial sign-ups by comparing today's counts to a 30-day median. When a set threshold is exceeded, it logs the event, updates video metrics (views, comments, likes, shares) via an API, filters social media comments for direct user engagement, and notifies stakeholders for timely action.
