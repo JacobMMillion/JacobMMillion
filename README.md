@@ -26,7 +26,7 @@ HealthHub is a web application designed to help users monitor diseases in specif
 Stock and Cryptocurrency Price Prediction Pipeline using historical data and machine learning. The pipeline ingests, cleans, and labels data, then trains a Random Forest Classifier optimized with GridSearchCV. It achieving an F1-score of 0.63 on testing data sets. It can be deployed for real-time predictions based on market features such as price, market cap, and volume, and/or extended to add more data for the model to train on.
 
 ### **[Educational Content](https://github.com/JacobMMillion/Learning_Land_Lesson_Plans)**
-A collection of resources and tutorials on programming in Python, aimed at helping learners grow their technical skills. These lessons include CS basics as well as game design with the `Pygame` library.
+A collection of resources and tutorials on programming in Python, aimed at helping learners grow their technical skills. These lessons include CS basics as well as game design with the `Pygame` library and website design with the `Flask` library.
 
 ## Connect with Me
 
