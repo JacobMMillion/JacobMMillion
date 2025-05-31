@@ -10,14 +10,8 @@ I graduated from Columbia University in 2025. Now I build things.
 
 ## Some of my Favorite Projects
 
-### **[Trial Trigger & Video Metric Processing System](https://github.com/JacobMMillion/Trial_Trigger)**
-An automated solution that monitors trial sign-ups by comparing today's counts to a 30-day median. When a set threshold is exceeded, it logs the event, updates video metrics (views, comments, likes, shares) via an API, filters social media comments for direct user engagement, and notifies stakeholders for timely action.
-
 ### **[Chess Openings Web App](https://github.com/JacobMMillion/FriedLiver_Chess_WebApp)**
 A web application where users can learn and quiz themselves on two openings: the Fried Liver and the Traxler Counter.
-
-### **[Menu-ly](https://github.com/JacobMMillion/Menu-ly_IOS_Application)**
-Menu-ly is a user-friendly iOS application designed to help restaurant staff effortlessly reference and study their restaurant's menu descriptions. The app empowers management to update, edit, and remove menu items and descriptions, ensuring the information is always up to date. With Firebase backend, Menu-ly provides robust backend support and secure user authentication. It is available for download on the IOS App Store, and restaurant have reported increased server knowledge with its use.
 
 ### **[HealthHub](https://github.com/JacobMMillion/HealthHub_Database_Webapp)**
 HealthHub is a web application designed to help users monitor diseases in specific states and engage in discussions about health-related topics. It is built on top of a relational database, and is implemented in Python using Flask. The current implementation placeholder data, but can easily be replaced with live data from an API for example.
