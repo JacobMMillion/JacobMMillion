@@ -1,6 +1,6 @@
 # Jacob Million GitHub Profile
 
-I graduated from Columbia University in 2025. Now I build things.
+I graduated from Columbia in 2025. Now I build things.
 
 ---
 
